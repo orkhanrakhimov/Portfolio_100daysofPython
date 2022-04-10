@@ -1,2 +1,4 @@
-# Portfolio_100daysofPython
-My journey of learning Python from scratch with the challenge of #100daysofPython
+# Day1 Portfolio_100daysofPython
+• Learned about Funcions and Variables
+• Created my first ever program: Band Name Generator
+
