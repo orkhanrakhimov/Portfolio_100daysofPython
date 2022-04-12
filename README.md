@@ -2,8 +2,8 @@
 This is my portfolio of learning Python from the scratch with the #100daysofPython challenge.
 
 # Day 1
-• Learned about Funcions and Variables
-• Created my first ever program: Band Name Generator
+- Learned about Funcions and Variables
+- Created my first ever program: Band Name Generator
 Brief examples:
 - How to multiply the string it down the line with: \n
 print("Hello World!\nHello World!\nHello World!\nHello World!")
