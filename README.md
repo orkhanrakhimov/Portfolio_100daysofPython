@@ -36,5 +36,14 @@ for example round(8 / 3, 2) ,2 is how many decimal places you want
 we can just simply use score += 1
 • f-string - to mix different kind of data types
 
+# Day 3
+- Learned about conditional statements: if, else, elif
+- Learned about logical operators
+- Learned about code blocks and scope
+• if we want to find the reminder of division, we can use % (modulo) ex: 4 % 3 = 1 
+• we can use .lower() at the end of a string that user has input to make latters smaller so computer doesn't get confused if user puts capital letters
+• we can use .count("(put a letter you want to count in a string") to count any letter in a string
+• If you want to use multiple sets of quotes inside a single string, you might have to "escape" some of them using the backslash `\`. You can see this in my first sentence: 'You\'re at a crossroad...'. 
+
 
 
